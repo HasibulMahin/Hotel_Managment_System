@@ -1,4 +1,4 @@
-package hotel.management.system;
+package Frame;
 
 import javax.swing.*;
 import java.awt.*;
